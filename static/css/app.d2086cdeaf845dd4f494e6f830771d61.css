@@ -1,0 +1,2 @@
+.app{font-family:Avenir,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-align:center;color:#2c3e50}.slide-enter{animation:slide-in .3s ease-out forwards}.slide-enter-active{animation:slide-out .3s ease-out forwards}@keyframes slide-in{0%{transform:translateY(-30px);opacity:0}to{transform:translateY(0);opacity:1}}@keyframes slide-out{0%{transform:translateY(0);opacity:1}to{transform:translateY(-30px);opacity:0}}
+/*# sourceMappingURL=app.d2086cdeaf845dd4f494e6f830771d61.css.map */
